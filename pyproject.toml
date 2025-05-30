@@ -28,7 +28,6 @@ dependencies = [
     "einops>=0.8.0",
     "rotary_embedding_torch",
     "torch>=2.4",
-    "torch-ttt",
 ]
 
 [project.urls]
